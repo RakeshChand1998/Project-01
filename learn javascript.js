@@ -103,5 +103,5 @@
     bankDetails.push(new personalDetails("rashmi","bangalore","9620369291","25000"));
     console.log(bankDetails);
 
-
+ // *****************************************************************
 
